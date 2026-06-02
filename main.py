@@ -1,3 +1,2 @@
 print("Hello World!")
-
-lka;dflajsdl;
+print("This is a simple Python script.")
